@@ -1,52 +1,74 @@
 <div align="center">
-  <h1 align="center">¡Hola! Soy Natalia Giraldo</h1>
-  <h3 align="center">Estudiante de Ingeniería de Sistemas</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,100:C77DFF&height=200&section=header&text=¡Hola!%20Soy%20Natalia%20Giraldo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudiante%20de%20Ingeniería%20de%20Sistemas&descAlignY=55&descSize=18" width="100%"/>
+
 </div>
 
----
+## 👩‍💻 Sobre Mí
 
-## Sobre Mí
+- 🎓 Estudiante de Ingeniería de Sistemas en la **Universidad de San Buenaventura Cali**, integrante del grupo de investigación **LIDIS**.
+- 🧠 Apasionada por la **Inteligencia Artificial**, con foco en **Deep Learning** y **Computer Vision**.
+- ⚙️ Enfocada en desarrollo **Backend**, bases de datos y estructuración de flujos de trabajo **MLOps**.
+- 🚦 Actualmente investigando arquitecturas híbridas (**ResNet50 + CBAM + ConvLSTM2D**) para detección de incidentes de tráfico.
 
-* Estudiante de Ingeniería de Sistemas en la **Universidad de San Buenaventura**.
-* Apasionada por la Inteligencia Artificial, específicamente en **Deep Learning** y **Computer Vision**.
-* Me enfoco en el desarrollo **Backend**, bases de datos y la estructuración de flujos de trabajo (MLOps).
----
+<br>
 
 ## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
-  
-### Desarrollo y Backend
-![Python](https://img.shields.io/badge/Python-7B2CBF?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-7B2CBF?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-7B2CBF?style=for-the-badge&logo=react&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-7B2CBF?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Inteligencia Artificial y Datos
-![TensorFlow](https://img.shields.io/badge/TensorFlow-5A189A?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-5A189A?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-5A189A?style=for-the-badge&logo=keras&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-5A189A?style=for-the-badge&logo=onnx&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-5A189A?style=for-the-badge&logo=kaggle&logoColor=white)
+**Lenguajes y Backend**
+
+<img src="https://img.shields.io/badge/Python-7B2CBF?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-7B2CBF?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-7B2CBF?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-7B2CBF?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/React-9D4EDD?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-9D4EDD?style=for-the-badge&logo=vite&logoColor=white"/>
+
+**Inteligencia Artificial y Datos**
+
+<img src="https://img.shields.io/badge/TensorFlow-5A189A?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-5A189A?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-5A189A?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/ONNX-5A189A?style=for-the-badge&logo=onnx&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5A189A?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-5A189A?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-5A189A?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-5A189A?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kaggle-5A189A?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI%20API-5A189A?style=for-the-badge&logo=openai&logoColor=white"/>
+
+**Herramientas y Entornos**
+
+<img src="https://img.shields.io/badge/Docker-240046?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-240046?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-240046?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-240046?style=for-the-badge&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/LaTeX-240046?style=for-the-badge&logo=latex&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-240046?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-240046?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </div>
 
----
+<br>
 
 ## 🌌 Proyectos y Enfoque
 
-* 🚦 **Clasificación de Video y Visión Computacional:** Desarrollo de modelos profundos utilizando arquitecturas como **ResNet50, ConvLSTM y CBAM** para el procesamiento de secuencias de imágenes.
-* ⚙️ **Optimización de Pipelines:** Implementación de estrategias de caché de características y ejecución de entrenamientos en segundo plano para gestionar altos volúmenes de datos sintéticos.
+- 🚦 **Clasificación de Video y Visión Computacional:** desarrollo de modelos profundos con arquitecturas como **ResNet50, ConvLSTM y CBAM** para el procesamiento de secuencias de imágenes.
+- 🌐 **Desarrollo Full Stack para IA:** construcción de APIs con **FastAPI** e interfaces con **React/Vite**, integrando modelos predictivos en aplicaciones desplegadas con **Docker** y **Render**.
+- ⚙️ **Optimización de Pipelines:** implementación de estrategias de caché de características y entrenamientos en segundo plano para gestionar altos volúmenes de datos sintéticos.
+- 📊 **Investigación aplicada:** experiencia en revisiones sistemáticas de literatura y documentación técnica de arquitecturas de deep learning.
 
----
-
-## 📊 Estadísticas de GitHub
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&title_color=c77dff&icon_color=c77dff&text_color=ffffff" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&fire=c77dff&ring=c77dff" alt="GitHub Streak" width="48%" />
-</div>
 
-<p align="center">
-  <i>"Transformando datos en soluciones inteligentes."</i> 
-</p>
+<i>"Transformando datos en soluciones inteligentes."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C77DFF,100:7B2CBF&height=100&section=footer" width="100%"/>
+
+</div>
