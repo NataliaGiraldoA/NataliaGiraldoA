@@ -1,12 +1,11 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,100:C77DFF&height=200&section=header&text=¡Hola!%20Soy%20Natalia%20Giraldo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudiante%20de%20Ingeniería%20de%20Sistemas&descAlignY=55&descSize=18" width="100%"/>
-
+  <h1 align="center"> Natalia Giraldo Amador </h1>
+  <h3 align="center">Estudiante de Ingeniería de Sistemas</h3>
 </div>
 
 ## 👩‍💻 Sobre Mí
 
-- 🎓 Estudiante de Ingeniería de Sistemas en la **Universidad de San Buenaventura Cali**, integrante del grupo de investigación **LIDIS**.
+- 🎓 Estudiante de Ingeniería de Sistemas en la **Universidad de San Buenaventura Cali**.
 - 🧠 Apasionada por la **Inteligencia Artificial**, con foco en **Deep Learning** y **Computer Vision**.
 - ⚙️ Enfocada en desarrollo **Backend**, bases de datos y estructuración de flujos de trabajo **MLOps**.
 - 🚦 Actualmente investigando arquitecturas híbridas (**ResNet50 + CBAM + ConvLSTM2D**) para detección de incidentes de tráfico.
@@ -68,7 +67,5 @@
 <div align="center">
 
 <i>"Transformando datos en soluciones inteligentes."</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C77DFF,100:7B2CBF&height=100&section=footer" width="100%"/>
 
 </div>
