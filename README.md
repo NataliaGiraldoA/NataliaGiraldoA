@@ -3,16 +3,16 @@
   <h3 align="center">Estudiante de Ingeniería de Sistemas</h3>
 </div>
 
-## 👩‍💻 Sobre Mí
+## Sobre Mí
 
-- 🎓 Estudiante de Ingeniería de Sistemas en la **Universidad de San Buenaventura Cali**.
-- 🧠 Apasionada por la **Inteligencia Artificial**, con foco en **Deep Learning** y **Computer Vision**.
-- ⚙️ Enfocada en desarrollo **Backend**, bases de datos y estructuración de flujos de trabajo **MLOps**.
-- 🚦 Actualmente investigando arquitecturas híbridas (**ResNet50 + CBAM + ConvLSTM2D**) para detección de incidentes de tráfico.
+- Estudiante de Ingeniería de Sistemas en la **Universidad de San Buenaventura Cali**.
+- Apasionada por la **Inteligencia Artificial**, con foco en **Deep Learning** y **Computer Vision**.
+- Enfocada en desarrollo **Backend**, bases de datos y estructuración de flujos de trabajo **MLOps**.
+- Actualmente investigando arquitecturas híbridas (**ResNet50 + CBAM + ConvLSTM2D**) para detección de incidentes de tráfico.
 
 <br>
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 <div align="center">
 
@@ -52,17 +52,6 @@
 <img src="https://img.shields.io/badge/VS%20Code-240046?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </div>
-
-<br>
-
-## 🌌 Proyectos y Enfoque
-
-- 🚦 **Clasificación de Video y Visión Computacional:** desarrollo de modelos profundos con arquitecturas como **ResNet50, ConvLSTM y CBAM** para el procesamiento de secuencias de imágenes.
-- 🌐 **Desarrollo Full Stack para IA:** construcción de APIs con **FastAPI** e interfaces con **React/Vite**, integrando modelos predictivos en aplicaciones desplegadas con **Docker** y **Render**.
-- ⚙️ **Optimización de Pipelines:** implementación de estrategias de caché de características y entrenamientos en segundo plano para gestionar altos volúmenes de datos sintéticos.
-- 📊 **Investigación aplicada:** experiencia en revisiones sistemáticas de literatura y documentación técnica de arquitecturas de deep learning.
-
-<br>
 
 <div align="center">
 
