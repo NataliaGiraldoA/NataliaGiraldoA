@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:240046,50:5A189A,100:9D4EDD&height=170&section=header&text=Natalia%20Giraldo%20Amador&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Ingenier%C3%ADa%20de%20Sistemas%20%C2%B7%20Inteligencia%20Artificial%20%C2%B7%20Backend&descAlignY=63&descSize=16" width="100%" alt="Natalia Giraldo"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:240046,50:5A189A,100:9D4EDD&height=170&section=header&text=Natalia%20Giraldo&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Ingenier%C3%ADa%20de%20Sistemas%20%C2%B7%20Inteligencia%20Artificial%20%C2%B7%20Backend&descAlignY=63&descSize=16" width="100%" alt="Natalia Giraldo"/>
 
 <br>
 
