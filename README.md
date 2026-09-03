@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,50:5A189A,100:9D4EDD&height=180&section=header&text=Natalia%20Giraldo%20Amador&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Estudiante%20de%20Ingenier%C3%ADa%20de%20Sistemas%20%7C%20IA%20%26%20Backend&descAlignY=58&descSize=16" width="100%" alt="Natalia Giraldo Amador"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:240046,100:9D4EDD&height=170&section=header&text=Natalia%20Giraldo%20Amador&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Ingenier%C3%ADa%20de%20Sistemas%20%C2%B7%20Inteligencia%20Artificial%20%C2%B7%20Backend&descAlignY=62&descSize=15" width="100%" alt="Natalia Giraldo Amador"/>
+
+<br>
+
+**Construyo sistemas de visión por computador y APIs para llevar modelos de IA a producción.**
 
 <a href="https://www.linkedin.com/in/natalia-giraldo-432076256/"><img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/NataliaGiraldoA"><img src="https://img.shields.io/badge/GitHub-240046?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<img src="https://komarev.com/ghpvc/?username=NataliaGiraldoA&style=for-the-badge&color=5A189A&label=VISITAS" alt="Visitas"/>
+<a href="https://github.com/NataliaGiraldoA"><img src="https://img.shields.io/badge/GitHub-5A189A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:nataliagiraldoamador@gmail.com"><img src="https://img.shields.io/badge/Email-240046?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
@@ -12,44 +16,23 @@
 
 ## Sobre mí
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-- 🎓 &nbsp;Estudiante de **Ingeniería de Sistemas** en la Universidad de San Buenaventura Cali.
-- 🧠 &nbsp;Apasionada por la **Inteligencia Artificial**, con foco en **Deep Learning** y **Computer Vision**.
-- ⚙️ &nbsp;Enfocada en desarrollo **Backend**, bases de datos y flujos de trabajo **MLOps**.
-- 🔬 &nbsp;Investigando arquitecturas híbridas **ResNet50 + CBAM + ConvLSTM2D** para detección de incidentes de tráfico.
-- 📍 &nbsp;Cali, Colombia · 📫 &nbsp;nataliagiraldoamador@gmail.com
-
-</td>
-<td width="40%" valign="top">
-
-**Ahora mismo**
-
-| | |
-|:--|:--|
-| 🔭 | Visión por computador aplicada a movilidad |
-| 🌱 | MLOps, despliegue de modelos y APIs |
-| 🤝 | Abierta a colaborar en proyectos de IA |
-| 💬 | Pregúntame de Python, redes neuronales o SQL |
-
-</td>
-</tr>
-</table>
+- Estudiante de Ingeniería de Sistemas en la **Universidad de San Buenaventura Cali**.
+- Apasionada por la **Inteligencia Artificial**, con foco en **Deep Learning** y **Computer Vision**.
+- Enfocada en desarrollo **Backend**, bases de datos y estructuración de flujos de trabajo **MLOps**.
+- Actualmente investigando arquitecturas híbridas (**ResNet50 + CBAM + ConvLSTM2D**) para detección de incidentes de tráfico.
 
 <hr>
 
 ## Tecnologías y herramientas
 
 <div align="center">
-
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-**Lenguajes y Backend**
+<div align="center"><strong>Lenguajes y Backend</strong></div>
 
+<div align="center">
 <img src="https://img.shields.io/badge/Python-7B2CBF?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-7B2CBF?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-7B2CBF?style=for-the-badge&logo=javascript&logoColor=white"/>
@@ -57,23 +40,28 @@
 <img src="https://img.shields.io/badge/FastAPI-7B2CBF?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-7B2CBF?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-7B2CBF?style=for-the-badge&logo=flask&logoColor=white"/>
+</div>
 
 </td>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-**Frontend**
+<div align="center"><strong>Frontend</strong></div>
 
+<div align="center">
 <img src="https://img.shields.io/badge/React-9D4EDD?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vite-9D4EDD?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-9D4EDD?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-9D4EDD?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-9D4EDD?style=for-the-badge&logo=css3&logoColor=white"/>
+</div>
 
 </td>
 </tr>
 <tr>
-<td align="center">
+<td width="50%" valign="top">
 
-**Inteligencia Artificial y Datos**
+<div align="center"><strong>Inteligencia Artificial y Datos</strong></div>
 
+<div align="center">
 <img src="https://img.shields.io/badge/TensorFlow-5A189A?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-5A189A?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-5A189A?style=for-the-badge&logo=keras&logoColor=white"/>
@@ -84,26 +72,14 @@
 <img src="https://img.shields.io/badge/Jupyter-5A189A?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kaggle-5A189A?style=for-the-badge&logo=kaggle&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI%20API-5A189A?style=for-the-badge&logo=openai&logoColor=white"/>
+</div>
 
 </td>
-<td align="center">
+<td width="50%" valign="top">
 
-**Herramientas y Entornos**
+<div align="center"><strong>DevOps y MLOps</strong></div>
 
-<img src="https://img.shields.io/badge/Git-240046?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-240046?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/LaTeX-240046?style=for-the-badge&logo=latex&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-240046?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-240046?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-240046?style=for-the-badge&logo=postman&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-
-**DevOps y Cloud**
-
+<div align="center">
 <img src="https://img.shields.io/badge/Docker-3C096C?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-3C096C?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-3C096C?style=for-the-badge&logo=kubernetes&logoColor=white"/>
@@ -111,27 +87,38 @@
 <img src="https://img.shields.io/badge/MLflow-3C096C?style=for-the-badge&logo=mlflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/DVC-3C096C?style=for-the-badge&logo=dvc&logoColor=white"/>
 <img src="https://img.shields.io/badge/Render-3C096C?style=for-the-badge&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-3C096C?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash-3C096C?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</div>
+
+<div align="center"><strong>Entornos</strong></div>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Git-240046?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-240046?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-240046?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LaTeX-240046?style=for-the-badge&logo=latex&logoColor=white"/>
+</div>
 
 </td>
 </tr>
 </table>
-
 </div>
 
 <hr>
 
-## Estadísticas
+## Investigación actual
+
+> **Detección de incidentes de tráfico en video**
+> Arquitectura híbrida **ResNet50 + CBAM + ConvLSTM2D**: extracción espacial con atención por canal y espacio, y modelado temporal de la secuencia para clasificar incidentes en tiempo real.
+
+<hr>
+
+## Actividad
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NataliaGiraldoA&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=C8B6E2&icon_color=9D4EDD&ring_color=9D4EDD" alt="Estadísticas de GitHub"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaGiraldoA&layout=compact&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=C8B6E2" alt="Lenguajes más usados"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NataliaGiraldoA&hide_border=true&background=0D1117&stroke=9D4EDD&ring=9D4EDD&fire=7B2CBF&currStreakLabel=C8B6E2&sideLabels=C8B6E2&dates=8A7CA8" alt="Racha de contribuciones"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NataliaGiraldoA&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=C8B6E2&icon_color=9D4EDD&ring_color=9D4EDD" alt="Estadísticas de GitHub"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaGiraldoA&layout=compact&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=C8B6E2&langs_count=8" alt="Lenguajes más usados"/>
 
 </div>
 
@@ -142,15 +129,13 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/natalia-giraldo-432076256/"><img src="https://img.shields.io/badge/LinkedIn-Natalia%20Giraldo-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-&nbsp;
 <a href="https://github.com/NataliaGiraldoA"><img src="https://img.shields.io/badge/GitHub-NataliaGiraldoA-5A189A?style=for-the-badge&logo=github&logoColor=white"/></a>
-&nbsp;
-<a href="mailto:nataliagiraldoamador@gmail.com"><img src="https://img.shields.io/badge/Gmail-nataliagiraldoamador-240046?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:nataliagiraldoamador@gmail.com"><img src="https://img.shields.io/badge/nataliagiraldoamador@gmail.com-240046?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br><br>
 
 <i>"Transformando datos en soluciones inteligentes."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:5A189A,100:240046&height=110&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:240046,50:5A189A,100:9D4EDD&height=4&section=footer" width="100%" alt=""/>
 
 </div>
