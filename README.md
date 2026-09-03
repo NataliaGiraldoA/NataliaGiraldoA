@@ -4,7 +4,6 @@
 
 <br>
 
-**Construyo sistemas de visión por computador y APIs para llevar modelos de IA a producción.**
 
 <a href="https://www.linkedin.com/in/natalia-giraldo-432076256/"><img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/NataliaGiraldoA"><img src="https://img.shields.io/badge/GitHub-5A189A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -17,9 +16,7 @@
 ## Sobre mí
 
 - Estudiante de Ingeniería de Sistemas en la **Universidad de San Buenaventura Cali**.
-- Apasionada por la **Inteligencia Artificial**, con foco en **Deep Learning** y **Computer Vision**.
-- Enfocada en desarrollo **Backend**, bases de datos y estructuración de flujos de trabajo **MLOps**.
-- Actualmente investigando arquitecturas híbridas (**ResNet50 + CBAM + ConvLSTM2D**) para detección de incidentes de tráfico.
+- Enfocada en desarrollo **Backend**, bases de datos y estructuración de flujos de trabajo **MLOps**, **Inteligencia artifial** y **Análitica de datos**.
 
 <hr>
 
