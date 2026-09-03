@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:240046,50:5A189A,100:9D4EDD&height=170&section=header&text=Natalia%20Giraldo&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Ingenier%C3%ADa%20de%20Sistemas%20%C2%B7%20Inteligencia%20Artificial%20%C2%B7%20Backend&descAlignY=63&descSize=16" width="100%" alt="Natalia Giraldo"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:240046,100:9D4EDD&height=200&section=header&text=Natalia%20Giraldo&fontSize=30&fontColor=ffffff&fontAlignY=48" alt="Natalia Giraldo Amador"/>
 
-<br>
+<h1>Natalia Giraldo Amador</h1>
+<h3>Ingeniería de Sistemas · Inteligencia Artificial · Backend</h3>
 
+**Construyo sistemas de visión por computador y APIs para llevar modelos de IA a producción.**
 
 <a href="https://www.linkedin.com/in/natalia-giraldo-432076256/"><img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/NataliaGiraldoA"><img src="https://img.shields.io/badge/GitHub-5A189A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
