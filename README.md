@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:240046,100:9D4EDD&height=170&section=header&text=Natalia%20Giraldo%20Amador&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Ingenier%C3%ADa%20de%20Sistemas%20%C2%B7%20Inteligencia%20Artificial%20%C2%B7%20Backend&descAlignY=62&descSize=15" width="100%" alt="Natalia Giraldo Amador"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:240046,50:5A189A,100:9D4EDD&height=170&section=header&text=Natalia%20Giraldo%20Amador&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Ingenier%C3%ADa%20de%20Sistemas%20%C2%B7%20Inteligencia%20Artificial%20%C2%B7%20Backend&descAlignY=63&descSize=16" width="100%" alt="Natalia Giraldo Amador"/>
 
 <br>
+
+**Construyo sistemas de visión por computador y APIs para llevar modelos de IA a producción.**
 
 <a href="https://www.linkedin.com/in/natalia-giraldo-432076256/"><img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/NataliaGiraldoA"><img src="https://img.shields.io/badge/GitHub-5A189A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -15,7 +17,9 @@
 ## Sobre mí
 
 - Estudiante de Ingeniería de Sistemas en la **Universidad de San Buenaventura Cali**.
-- Enfocada en desarrollo **Backend**, bases de datos y estructuración de flujos de trabajo **MLOps**, **Inteligencia Artificial** y **Análisis de datos**.
+- Apasionada por la **Inteligencia Artificial**, con foco en **Deep Learning** y **Computer Vision**.
+- Enfocada en desarrollo **Backend**, bases de datos y estructuración de flujos de trabajo **MLOps**.
+- Actualmente investigando arquitecturas híbridas (**ResNet50 + CBAM + ConvLSTM2D**) para detección de incidentes de tráfico.
 
 <hr>
 
@@ -106,11 +110,19 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NataliaGiraldoA&hide_border=true&background=0D1117&stroke=3C096C&ring=9D4EDD&fire=7B2CBF&currStreakLabel=C8B6E2&sideLabels=C8B6E2&dates=8A7CA8&currStreakNum=ffffff&sideNums=ffffff" alt="Racha de contribuciones" width="480"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=NataliaGiraldoA&hide_border=true&background=0D1117&stroke=3C096C&ring=9D4EDD&fire=7B2CBF&currStreakLabel=C8B6E2&sideLabels=C8B6E2&dates=8A7CA8&currStreakNum=ffffff&sideNums=ffffff"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=NataliaGiraldoA&hide_border=true&background=FFFFFF&stroke=E4D7F5&ring=7B2CBF&fire=9D4EDD&currStreakLabel=5A189A&sideLabels=5A189A&dates=8A7CA8&currStreakNum=240046&sideNums=240046"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NataliaGiraldoA&hide_border=true&background=0D1117&stroke=3C096C&ring=9D4EDD&fire=7B2CBF&currStreakLabel=C8B6E2&sideLabels=C8B6E2&dates=8A7CA8&currStreakNum=ffffff&sideNums=ffffff" alt="Racha de contribuciones" width="480"/>
+</picture>
 
 <br><br>
 
-<img src="https://ghchart.rshah.org/9D4EDD/NataliaGiraldoA" alt="Gráfico de contribuciones de NataliaGiraldoA" width="90%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/9D4EDD/NataliaGiraldoA"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/5A189A/NataliaGiraldoA"/>
+  <img src="https://ghchart.rshah.org/9D4EDD/NataliaGiraldoA" alt="Gráfico de contribuciones de NataliaGiraldoA" width="90%"/>
+</picture>
 
 </div>
 
