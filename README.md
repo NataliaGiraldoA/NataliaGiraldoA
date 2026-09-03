@@ -4,8 +4,6 @@
 
 <br>
 
-**Construyo sistemas de visión por computador y APIs para llevar modelos de IA a producción.**
-
 <a href="https://www.linkedin.com/in/natalia-giraldo-432076256/"><img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/NataliaGiraldoA"><img src="https://img.shields.io/badge/GitHub-5A189A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="mailto:nataliagiraldoamador@gmail.com"><img src="https://img.shields.io/badge/Email-240046?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -17,9 +15,7 @@
 ## Sobre mí
 
 - Estudiante de Ingeniería de Sistemas en la **Universidad de San Buenaventura Cali**.
-- Apasionada por la **Inteligencia Artificial**, con foco en **Deep Learning** y **Computer Vision**.
-- Enfocada en desarrollo **Backend**, bases de datos y estructuración de flujos de trabajo **MLOps**.
-- Actualmente investigando arquitecturas híbridas (**ResNet50 + CBAM + ConvLSTM2D**) para detección de incidentes de tráfico.
+- Enfocada en desarrollo **Backend**, bases de datos y estructuración de flujos de trabajo **MLOps**, **Inteligencia Artificial** y **Análisis de datos**.
 
 <hr>
 
@@ -106,19 +102,15 @@
 
 <hr>
 
-## Investigación actual
-
-> **Detección de incidentes de tráfico en video**
-> Arquitectura híbrida **ResNet50 + CBAM + ConvLSTM2D**: extracción espacial con atención por canal y espacio, y modelado temporal de la secuencia para clasificar incidentes en tiempo real.
-
-<hr>
-
 ## Actividad
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NataliaGiraldoA&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=C8B6E2&icon_color=9D4EDD&ring_color=9D4EDD" alt="Estadísticas de GitHub"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaGiraldoA&layout=compact&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=C8B6E2&langs_count=8" alt="Lenguajes más usados"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NataliaGiraldoA&hide_border=true&background=0D1117&stroke=3C096C&ring=9D4EDD&fire=7B2CBF&currStreakLabel=C8B6E2&sideLabels=C8B6E2&dates=8A7CA8&currStreakNum=ffffff&sideNums=ffffff" alt="Racha de contribuciones" width="480"/>
+
+<br><br>
+
+<img src="https://ghchart.rshah.org/9D4EDD/NataliaGiraldoA" alt="Gráfico de contribuciones de NataliaGiraldoA" width="90%"/>
 
 </div>
 
