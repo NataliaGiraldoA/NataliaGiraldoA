@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:240046,100:9D4EDD&height=200&section=header&text=Natalia%20Giraldo&fontSize=30&fontColor=ffffff&fontAlignY=48" alt="Natalia Giraldo Amador"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:240046,100:9D4EDD&height=150&section=header&text=NG&fontSize=48&fontColor=ffffff&fontAlignY=50" alt=""/>
 
 <h1>Natalia Giraldo Amador</h1>
 <h3>Ingeniería de Sistemas · Inteligencia Artificial · Backend</h3>
@@ -18,7 +18,9 @@
 ## Sobre mí
 
 - Estudiante de Ingeniería de Sistemas en la **Universidad de San Buenaventura Cali**.
-- Enfocada en desarrollo **Backend**, bases de datos y estructuración de flujos de trabajo **MLOps**, **Inteligencia artifial** y **Análitica de datos**.
+- Apasionada por la **Inteligencia Artificial**, con foco en **Deep Learning** y **Computer Vision**.
+- Enfocada en desarrollo **Backend**, bases de datos y estructuración de flujos de trabajo **MLOps**.
+- Actualmente investigando arquitecturas híbridas (**ResNet50 + CBAM + ConvLSTM2D**) para detección de incidentes de tráfico.
 
 <hr>
 
